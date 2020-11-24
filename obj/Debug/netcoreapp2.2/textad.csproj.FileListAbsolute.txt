@@ -1,0 +1,11 @@
+C:\Users\Jordf\onedrive\documents\coding\textad\bin\Debug\netcoreapp2.2\textad.deps.json
+C:\Users\Jordf\onedrive\documents\coding\textad\bin\Debug\netcoreapp2.2\textad.runtimeconfig.json
+C:\Users\Jordf\onedrive\documents\coding\textad\bin\Debug\netcoreapp2.2\textad.runtimeconfig.dev.json
+C:\Users\Jordf\onedrive\documents\coding\textad\bin\Debug\netcoreapp2.2\textad.dll
+C:\Users\Jordf\onedrive\documents\coding\textad\bin\Debug\netcoreapp2.2\textad.pdb
+C:\Users\Jordf\onedrive\documents\coding\textad\obj\Debug\netcoreapp2.2\textad.csprojAssemblyReference.cache
+C:\Users\Jordf\onedrive\documents\coding\textad\obj\Debug\netcoreapp2.2\textad.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\textad\obj\Debug\netcoreapp2.2\textad.AssemblyInfoInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\textad\obj\Debug\netcoreapp2.2\textad.AssemblyInfo.cs
+C:\Users\Jordf\onedrive\documents\coding\textad\obj\Debug\netcoreapp2.2\textad.dll
+C:\Users\Jordf\onedrive\documents\coding\textad\obj\Debug\netcoreapp2.2\textad.pdb
